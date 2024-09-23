@@ -2,7 +2,7 @@
 
 > Tomás-Daza, L. (2024). *Computational framework to decipher the role of spatio­temporal epigenome organization in gene transcription* (Unpublished doctoral dissertation). Universitat Autònoma de Barcelona, Barcelona, Spain.
 
-This repository contains all scripts and analyses performed during my PhD thesis. 
+This repository contains scripts and analyses performed during my PhD thesis. 
 
 Part of the results have been gathered in two different publications:
 
