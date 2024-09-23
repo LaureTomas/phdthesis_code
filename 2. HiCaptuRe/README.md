@@ -1,0 +1,1 @@
+The source code of the HiCaptuRe R package presented in the second chapter of my thesis, and any update it may have is available in the following repository: [LaureTomas/HiCaptuRe](https://github.com/LaureTomas/HiCaptuRe)
